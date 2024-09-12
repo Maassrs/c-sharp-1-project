@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maasessers/Documents/SCHOOL/c sharp 1 project/c sharp 1 project/c sharp 1 project.csproj": {}
+    "/Users/maasessers/Documents/SCHOOL/portefolio/scr/p1/c sharp 1 project/c sharp 1 project/c sharp 1 project.csproj": {}
   },
   "projects": {
-    "/Users/maasessers/Documents/SCHOOL/c sharp 1 project/c sharp 1 project/c sharp 1 project.csproj": {
+    "/Users/maasessers/Documents/SCHOOL/portefolio/scr/p1/c sharp 1 project/c sharp 1 project/c sharp 1 project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maasessers/Documents/SCHOOL/c sharp 1 project/c sharp 1 project/c sharp 1 project.csproj",
+        "projectUniqueName": "/Users/maasessers/Documents/SCHOOL/portefolio/scr/p1/c sharp 1 project/c sharp 1 project/c sharp 1 project.csproj",
         "projectName": "c sharp 1 project",
-        "projectPath": "/Users/maasessers/Documents/SCHOOL/c sharp 1 project/c sharp 1 project/c sharp 1 project.csproj",
+        "projectPath": "/Users/maasessers/Documents/SCHOOL/portefolio/scr/p1/c sharp 1 project/c sharp 1 project/c sharp 1 project.csproj",
         "packagesPath": "/Users/maasessers/.nuget/packages/",
-        "outputPath": "/Users/maasessers/Documents/SCHOOL/c sharp 1 project/c sharp 1 project/obj/",
+        "outputPath": "/Users/maasessers/Documents/SCHOOL/portefolio/scr/p1/c sharp 1 project/c sharp 1 project/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maasessers/.nuget/NuGet/NuGet.Config"
