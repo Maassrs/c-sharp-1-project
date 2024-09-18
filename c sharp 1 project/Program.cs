@@ -1,5 +1,4 @@
 ﻿namespace c_sharp_1_project;
-
 class Program
 {
     static void Main(string[] args)
@@ -58,11 +57,11 @@ class Program
         }
         else
         {
-            Console.WriteLine("error put 1 or 2");
+            Console.WriteLine("error put 1 or 2"); 
         }
 
 
-       
+        //sjljcb
 
 
 
@@ -73,4 +72,7 @@ class Program
         Console.ReadLine();
     }
 }
+
+
+
 
